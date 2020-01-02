@@ -1,0 +1,19 @@
+{
+  "name": "mainmodule",
+  "version": "1.0.0",
+  "description": "git subtree push --prefix=sub  https://github.com/ChenWeiYuan123/submodule.git master git subtree pull --prefix=sub  https://github.com/ChenWeiYuan123/submodule.git master",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChenWeiYuan123/mainmodule.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChenWeiYuan123/mainmodule/issues"
+  },
+  "homepage": "https://github.com/ChenWeiYuan123/mainmodule#readme"
+}
